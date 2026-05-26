@@ -13,7 +13,7 @@ Small retail stores often rely on manual tracking or spreadsheets for inventory 
 - Generate reorder requests for low-stock products
 - Run business reports for inventory and sales analysis
 
-## Technologies Used
+## Technologies & Diagrams Used
 - Microsoft Access
 - SQL
 - Relational Database Design
