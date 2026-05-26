@@ -1,4 +1,4 @@
-# QuickMart Inventory Management System
+-- QuickMart Inventory Management System --
 
 ## Overview
 QuickMart Inventory Management System is a relational database application designed for a small grocery store. The system helps manage products, inventory, suppliers, customer orders, deliveries, and reorder requests.
