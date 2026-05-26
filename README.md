@@ -40,8 +40,8 @@ Small retail stores often rely on manual tracking or spreadsheets for inventory 
 - Supplier inventory report
 
 ## Screenshots
-ER Diagram:
 
+## ER Diagram:
 <img width="907" height="855" alt="image" src="https://github.com/user-attachments/assets/e16d7a63-d016-47bb-94f4-c48e30802c78" />
 ## Relational Diagram:
 <img width="642" height="855" alt="image" src="https://github.com/user-attachments/assets/07e337be-c9a1-4736-b931-7dfee6466d3d" />
